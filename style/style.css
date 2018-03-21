@@ -6,10 +6,14 @@ body {
 
 header{
   text-align: center;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 img{
   margin-top: 1em;
+}
+p {
+    font-size: 1em;
 }
 /*
 .nav ul {
