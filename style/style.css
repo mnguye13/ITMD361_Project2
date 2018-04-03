@@ -77,15 +77,15 @@ p {
      color: #444;
      cursor: default;
    }
-@media screen and (min-width: 800px) {
-  /*
+@media screen and (max-width: 500px) {
+
   .nav li {
-    width: 120px;
+    width: 100%;
     border-bottom: none;
-    height: 50px;
-    line-height: 50px;
-    font-size: 1.4em;
-  }*/
+    line-height: 20px;
+    font-size: 1.2em;
+    padding: 0.5%;
+  }
 
   /* Option 1 - Display Inline */
   /*.nav li {
