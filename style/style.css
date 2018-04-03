@@ -169,6 +169,13 @@ footer{
 #resume{
 	flex-direction: column;
 	display: flex;
-	margin:7vh auto;
+	margin:3vh auto;
 	max-width: 100%;
+}
+
+#favorite {
+	flex-direction: column;
+	display: flex;
+  max-width: 100%;
+  margin:1vh auto;
 }
