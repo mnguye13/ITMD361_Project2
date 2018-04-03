@@ -7,11 +7,11 @@ body {
 header{
   text-align: center;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-  width: 100%
+  width: 100%;
 }
 
 img{
-  margin-top: 1em;
+  margin-top: 2em;
 }
 p {
     font-size: 1em;
