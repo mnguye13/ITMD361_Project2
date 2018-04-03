@@ -159,9 +159,16 @@ footer{
   position: fixed;
 }
 
-#main_page {
+#index{
 	flex-direction: column;
 	display: inline;
 	margin:7vh auto;
-	max-width: 80%;
+	max-width: 100%;
+}
+
+#resume{
+	flex-direction: column;
+	display: flex;
+	margin:7vh auto;
+	max-width: 100%;
 }
